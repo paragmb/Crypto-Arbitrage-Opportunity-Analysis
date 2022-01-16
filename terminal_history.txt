@@ -1,0 +1,55 @@
+    1  conda create -n dev python=3.9 anaconda
+    2  conda create -n dev python=3.7 anaconda
+    3  conda init bash
+    4  conda --version
+    5  conda init bash
+    6  conda create -n dev python=3.9 anaconda
+    7  git clone https://github.com/paragmb/Module3Challenge.git
+    8  ls
+    9  cd Module3Challenge
+   10  git status
+   11  git add .DS_Store Resources/
+   12  git add README.md crypto_arbitrage.ipynb
+   13  git status
+   14  git commit -m "<Modified README.md and added the starter code files>
+git status
+git push
+git commit -m "<Modified README.md and added the starter code files>
+   15* git commit -m "<Modified README.md and added the starter code files>
+git status
+git push
+git commit -m "<Modified README.md and added the starter code files>"
+
+git commit -m "<Modified README.md and added the starter code files>
+   16  git status
+   17  git push
+   18  $ git commit -m "<Modified README.md and added the starter code files>"
+   19   git commit -m "<Modified README.md and added the starter code files>"
+   20  git status
+   21  git push
+   22  conda activate dev
+   23  jupyter lab --ContentsManager.allow_hidden=True
+   24  git status
+   25  git add README.md crypto_arbitrage.ipynb
+   26  git status
+   27  git commit -m "<Completed collect and prepare data. Updated README.md>"
+   28  git status
+   29  git push
+   30  jupyter lab --ContentsManager.allow_hidden=True
+   31  git status
+   32  git add crypto_arbitrage.ipynb
+   33  git status
+   34  git commit -m"<Analyzed data to develop summary statistics and arbitrage spreads>
+git commit -m"<Analyzed data to develop summary statistics and arbitrage spreads>"
+git commit -m"<Analyzed data to develop summary statistics and arbitrage spreads>
+   35  git commit -m"<Analyzed data to develop summary statistics and arbitrage spreads>"
+   36  git status
+   37  git push
+   38  jupyter lab --ContentsManager.allow_hidden=True
+   39  git status
+   40  git add README.md crypto_arbitrage.ipynb
+   41  git status
+   42  git commit -m "<Final analyses added and updated READme.md>"
+   43  git status
+   44  git push
+   45  history 50 > terminal_history.txt
